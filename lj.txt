@@ -1,0 +1,2 @@
+mongodb+srv://ljuba:<password>@cluster0-7v7vd.mongodb.net/test?retryWrites=true&w=majority
+
