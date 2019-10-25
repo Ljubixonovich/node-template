@@ -25,5 +25,3 @@ mongoose.connect(
       app.listen(PORT);      
    })
    .catch(err => console.log(err));
-
-// app.listen(8000);
